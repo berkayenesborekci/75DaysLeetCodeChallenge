@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/berkayenesborekci/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/berkayenesborekci/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Database
 |  |
 | ------- |
@@ -16,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/berkayenesborekci/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/berkayenesborekci/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/berkayenesborekci/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/berkayenesborekci/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

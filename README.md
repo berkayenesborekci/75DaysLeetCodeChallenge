@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/berkayenesborekci/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/berkayenesborekci/75DaysLeetCodeChallenge/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
